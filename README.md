@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush20002/Ayush20002/blob/main/GitHub-headpic.png)
 <h1 align="center">Hi 👋, I'm Aayush Dwivedi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
